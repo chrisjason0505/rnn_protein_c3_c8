@@ -1,0 +1,34 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.0",
+  "startedAt":  "2025-12-15T17:25:00.379372Z",
+  "program":  "c:\\Users\\meekg\\Downloads\\sep-25-dl-gen-ai-nppe-2\\notesree_enhanced.ipynb",
+  "codePath":  "c:\\Users\\meekg\\Downloads\\sep-25-dl-gen-ai-nppe-2\\notesree_enhanced.ipynb",
+  "codePathLocal":  "notesree_enhanced.ipynb",
+  "email":  "chrisjason0505@gmail.com",
+  "root":  "c:\\Users\\meekg\\Downloads\\sep-25-dl-gen-ai-nppe-2",
+  "host":  "MSI",
+  "executable":  "c:\\Users\\meekg\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "489172234240",
+      "used":  "418568343552"
+    }
+  },
+  "memory":  {
+    "total":  "16992980992"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "architecture":  "Ampere",
+      "uuid":  "GPU-cf51ffcc-c59a-2625-f773-105b005f00a9"
+    }
+  ],
+  "cudaVersion":  "11.5",
+  "writerId":  "z3akjryxmtdyoykraer1eq3ndn5rz8ln"
+}

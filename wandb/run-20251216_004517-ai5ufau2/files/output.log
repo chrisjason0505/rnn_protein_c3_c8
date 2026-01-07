@@ -1,0 +1,17 @@
+
+✓ WandB initialized successfully with YOUR account!
+[34m[1mwandb[0m: [33mWARNING[0m The get_url method is deprecated and will be removed in a future release. Please use `run.url` instead.
+✓ Dashboard URL: https://wandb.ai/23f2002825-iit-madras/protein-secondary-structure/runs/ai5ufau2
+✓ Hugging Face transformers loaded!
+
+Loading datasets...
+✓ Train dataset: 7262 samples
+✓ Test dataset: 1816 samples
+
+C3 classes: ['C', 'E', 'H'] (count: 3)
+C8 classes: ['B', 'C', 'E', 'G', 'H', 'I', 'S', 'T'] (count: 8)
+Max sequence length: 1632
+
+============================================================
+✓ Cell 2 complete - Ready to proceed with training!
+============================================================

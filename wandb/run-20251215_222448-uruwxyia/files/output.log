@@ -1,0 +1,7 @@
+✓ Trackio/WandB initialized successfully!
+✓ Hugging Face transformers loaded!
+[34m[1mwandb[0m: [33mWARNING[0m The get_url method is deprecated and will be removed in a future release. Please use `run.url` instead.
+Dashboard URL: https://wandb.ai/chrisjason0505-iiitdm-kancheepuram/protein-secondary-structure/runs/uruwxyia
+C3 classes: ['C', 'E', 'H'] (count: 3)
+C8 classes: ['B', 'C', 'E', 'G', 'H', 'I', 'S', 'T'] (count: 8)
+Max sequence length: 1632

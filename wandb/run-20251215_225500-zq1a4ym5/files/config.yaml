@@ -1,0 +1,81 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            z3akjryxmtdyoykraer1eq3ndn5rz8ln:
+                codePath: c:\Users\meekg\Downloads\sep-25-dl-gen-ai-nppe-2\notesree_enhanced.ipynb
+                codePathLocal: notesree_enhanced.ipynb
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "11.5"
+                disk:
+                    /:
+                        total: "489172234240"
+                        used: "418568343552"
+                email: chrisjason0505@gmail.com
+                executable: c:\Users\meekg\AppData\Local\Programs\Python\Python312\python.exe
+                gpu: NVIDIA GeForce RTX 3060 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      name: NVIDIA GeForce RTX 3060 Laptop GPU
+                      uuid: GPU-cf51ffcc-c59a-2625-f773-105b005f00a9
+                host: MSI
+                memory:
+                    total: "16992980992"
+                os: Windows-11-10.0.26200-SP0
+                program: c:\Users\meekg\Downloads\sep-25-dl-gen-ai-nppe-2\notesree_enhanced.ipynb
+                python: CPython 3.12.0
+                root: c:\Users\meekg\Downloads\sep-25-dl-gen-ai-nppe-2
+                startedAt: "2025-12-15T17:25:00.379372Z"
+                writerId: z3akjryxmtdyoykraer1eq3ndn5rz8ln
+        m: []
+        python_version: 3.12.0
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+                - 105
+            "2":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+                - 105
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.12.0
+            "5": 0.23.1
+            "6": 4.57.0
+            "8":
+                - 1
+                - 2
+                - 3
+            "10":
+                - 21
+            "12": 0.23.1
+            "13": windows-amd64
+batch_size:
+    value: 32
+c3_classes:
+    value: 3
+c8_classes:
+    value: 8
+embed_dim:
+    value: 64
+epochs:
+    value: 10
+hidden_dim:
+    value: 128
+learning_rate:
+    value: 0.001
+max_len:
+    value: 1632
+vocab_size:
+    value: 22

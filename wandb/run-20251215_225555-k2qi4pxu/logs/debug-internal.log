@@ -1,0 +1,7 @@
+{"time":"2025-12-15T22:55:55.4253027+05:30","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2025-12-15T22:55:56.2771227+05:30","level":"INFO","msg":"stream: created new stream","id":"k2qi4pxu"}
+{"time":"2025-12-15T22:55:56.2771227+05:30","level":"INFO","msg":"handler: started","stream_id":"k2qi4pxu"}
+{"time":"2025-12-15T22:55:56.2797097+05:30","level":"INFO","msg":"stream: started","id":"k2qi4pxu"}
+{"time":"2025-12-15T22:55:56.2802485+05:30","level":"INFO","msg":"writer: started","stream_id":"k2qi4pxu"}
+{"time":"2025-12-15T22:55:56.2802485+05:30","level":"INFO","msg":"sender: started","stream_id":"k2qi4pxu"}
+{"time":"2025-12-15T23:29:25.3975833+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/23f2002825-iit-madras/protein-secondary-structure/k2qi4pxu/file_stream\": read tcp 172.16.0.2:61521->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
